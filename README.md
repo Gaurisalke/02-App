@@ -15,7 +15,8 @@
 
 `Inline Code`
 
-
+``` bash
+npm install
 
 > quote text
 > Multiline blockquote 1
