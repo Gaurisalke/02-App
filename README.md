@@ -15,7 +15,7 @@
 
 `Inline Code`
 
-``` bash
+```
 npm install
 ```
 
